@@ -1,4 +1,4 @@
-Oi! eu sou o Lucas
+Oi, eu sou o Lucas!
 
 - 🔭 Tabalhando com infraestrutura/HelpDesk
 - 🌱 Atualmente estudando HTML/CSS, JavaScript e indo para Node.js
