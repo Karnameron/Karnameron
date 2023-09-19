@@ -1,7 +1,7 @@
 Oi, eu sou o Lucas!
 
 - 🔭 Tabalhando com infraestrutura/HelpDesk
-- 🌱 Atualmente estudando HTML/CSS, JavaScript e indo para Node.js
+- 🌱 Atualmente estudando HTML/CSS, JavaScript e progredindo para Node.js e Java Spring
 - 📫 Meu E-mail para contato: rochaandradel48@gmail.com
 - ⚡ Fun fact: Provavelmente irá me encontrar com em algum MMO ou jogo online com esse mesmo usuário
 
